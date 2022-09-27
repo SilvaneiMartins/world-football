@@ -62,3 +62,7 @@ buck-out/
 # Ruby / CocoaPods
 /ios/Pods/
 /vendor/bundle/
+
+
+# Ignorar as Image até o final do projeto;
+/src/assets/
